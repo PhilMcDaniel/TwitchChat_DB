@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TwitchChat_DB", "TwitchChat_DB\TwitchChat_DB.sqlproj", "{B32B7F8E-493D-44FE-9B54-0D148FF09E7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B32B7F8E-493D-44FE-9B54-0D148FF09E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32B7F8E-493D-44FE-9B54-0D148FF09E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32B7F8E-493D-44FE-9B54-0D148FF09E7C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B32B7F8E-493D-44FE-9B54-0D148FF09E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32B7F8E-493D-44FE-9B54-0D148FF09E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B32B7F8E-493D-44FE-9B54-0D148FF09E7C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18532A19-C6EC-4F22-B707-B4F75510723B}
+	EndGlobalSection
+EndGlobal
